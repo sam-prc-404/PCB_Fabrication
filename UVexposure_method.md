@@ -1,6 +1,6 @@
 # 🌟 PCB Fabrication Using UV Exposure Method 🌟
 
-![Operation in progress]()
+![Operation in progress](https://github.com/sam-prc-404/PCB_Fabrication/blob/master/Gallery/Operation%20in%20progress.png)
 
 This guide outlines the steps for fabricating PCBs using the **UV exposure method**. This technique allows for high precision in creating circuit boards.
 
